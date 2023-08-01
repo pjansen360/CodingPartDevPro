@@ -1,0 +1,70 @@
+C:\Users\janse\Desktop\CodingPart Dev.Pro\obj\Debug\net7.0\CodingPart Dev.Pro.csproj.AssemblyReference.cache
+C:\Users\janse\Desktop\CodingPart Dev.Pro\obj\Debug\net7.0\CodingPart Dev.Pro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janse\Desktop\CodingPart Dev.Pro\obj\Debug\net7.0\CodingPart Dev.Pro.AssemblyInfoInputs.cache
+C:\Users\janse\Desktop\CodingPart Dev.Pro\obj\Debug\net7.0\CodingPart Dev.Pro.AssemblyInfo.cs
+C:\Users\janse\Desktop\CodingPart Dev.Pro\obj\Debug\net7.0\CodingPart Dev.Pro.csproj.CoreCompileInputs.cache
+C:\Users\janse\Desktop\CodingPart Dev.Pro\bin\Debug\net7.0\CodingPart Dev.Pro.exe
+C:\Users\janse\Desktop\CodingPart Dev.Pro\bin\Debug\net7.0\CodingPart Dev.Pro.deps.json
+C:\Users\janse\Desktop\CodingPart Dev.Pro\bin\Debug\net7.0\CodingPart Dev.Pro.runtimeconfig.json
+C:\Users\janse\Desktop\CodingPart Dev.Pro\bin\Debug\net7.0\CodingPart Dev.Pro.dll
+C:\Users\janse\Desktop\CodingPart Dev.Pro\bin\Debug\net7.0\CodingPart Dev.Pro.pdb
+C:\Users\janse\Desktop\CodingPart Dev.Pro\bin\Debug\net7.0\BoDi.dll
+C:\Users\janse\Desktop\CodingPart Dev.Pro\bin\Debug\net7.0\Gherkin.dll
+C:\Users\janse\Desktop\CodingPart Dev.Pro\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\janse\Desktop\CodingPart Dev.Pro\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\janse\Desktop\CodingPart Dev.Pro\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\janse\Desktop\CodingPart Dev.Pro\bin\Debug\net7.0\TechTalk.SpecFlow.dll
+C:\Users\janse\Desktop\CodingPart Dev.Pro\bin\Debug\net7.0\SpecFlow.Internal.Json.dll
+C:\Users\janse\Desktop\CodingPart Dev.Pro\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\janse\Desktop\CodingPart Dev.Pro\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\janse\Desktop\CodingPart Dev.Pro\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\janse\Desktop\CodingPart Dev.Pro\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\janse\Desktop\CodingPart Dev.Pro\obj\Debug\net7.0\CodingPart Dev.Pro.csproj.CopyComplete
+C:\Users\janse\Desktop\CodingPart Dev.Pro\obj\Debug\net7.0\CodingPart Dev.Pro.dll
+C:\Users\janse\Desktop\CodingPart Dev.Pro\obj\Debug\net7.0\refint\CodingPart Dev.Pro.dll
+C:\Users\janse\Desktop\CodingPart Dev.Pro\obj\Debug\net7.0\CodingPart Dev.Pro.pdb
+C:\Users\janse\Desktop\CodingPart Dev.Pro\obj\Debug\net7.0\CodingPart Dev.Pro.genruntimeconfig.cache
+C:\Users\janse\Desktop\CodingPart Dev.Pro\obj\Debug\net7.0\ref\CodingPart Dev.Pro.dll
+C:\Users\janse\Desktop\CodingPart Dev.Pro\bin\Debug\net7.0\LivingDoc.Dtos.dll
+C:\Users\janse\Desktop\CodingPart Dev.Pro\bin\Debug\net7.0\LivingDoc.SpecFlowPlugin.dll
+C:\Users\janse\Desktop\CodingPart Dev.Pro\bin\Debug\net7.0\nunit.framework.dll
+C:\Users\janse\Desktop\CodingPart Dev.Pro\bin\Debug\net7.0\Cucumber.Messages.dll
+C:\Users\janse\Desktop\CodingPart Dev.Pro\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\janse\Desktop\CodingPart Dev.Pro\bin\Debug\net7.0\TechTalk.SpecFlow.MSTest.SpecFlowPlugin.dll
+C:\Users\janse\Desktop\CodingPart Dev.Pro\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\janse\Desktop\CodingPart Dev.Pro\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\janse\Desktop\Bingha\CodingPartDevPro\bin\Debug\net7.0\LivingDoc.Dtos.dll
+C:\Users\janse\Desktop\Bingha\CodingPartDevPro\bin\Debug\net7.0\LivingDoc.SpecFlowPlugin.dll
+C:\Users\janse\Desktop\Bingha\CodingPartDevPro\bin\Debug\net7.0\TechTalk.SpecFlow.MSTest.SpecFlowPlugin.dll
+C:\Users\janse\Desktop\Bingha\CodingPartDevPro\bin\Debug\net7.0\CodingPart Dev.Pro.exe
+C:\Users\janse\Desktop\Bingha\CodingPartDevPro\bin\Debug\net7.0\CodingPart Dev.Pro.deps.json
+C:\Users\janse\Desktop\Bingha\CodingPartDevPro\bin\Debug\net7.0\CodingPart Dev.Pro.runtimeconfig.json
+C:\Users\janse\Desktop\Bingha\CodingPartDevPro\bin\Debug\net7.0\CodingPart Dev.Pro.dll
+C:\Users\janse\Desktop\Bingha\CodingPartDevPro\bin\Debug\net7.0\CodingPart Dev.Pro.pdb
+C:\Users\janse\Desktop\Bingha\CodingPartDevPro\bin\Debug\net7.0\BoDi.dll
+C:\Users\janse\Desktop\Bingha\CodingPartDevPro\bin\Debug\net7.0\Cucumber.Messages.dll
+C:\Users\janse\Desktop\Bingha\CodingPartDevPro\bin\Debug\net7.0\Gherkin.dll
+C:\Users\janse\Desktop\Bingha\CodingPartDevPro\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\janse\Desktop\Bingha\CodingPartDevPro\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\janse\Desktop\Bingha\CodingPartDevPro\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\janse\Desktop\Bingha\CodingPartDevPro\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\janse\Desktop\Bingha\CodingPartDevPro\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\janse\Desktop\Bingha\CodingPartDevPro\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\janse\Desktop\Bingha\CodingPartDevPro\bin\Debug\net7.0\nunit.framework.dll
+C:\Users\janse\Desktop\Bingha\CodingPartDevPro\bin\Debug\net7.0\TechTalk.SpecFlow.dll
+C:\Users\janse\Desktop\Bingha\CodingPartDevPro\bin\Debug\net7.0\SpecFlow.Internal.Json.dll
+C:\Users\janse\Desktop\Bingha\CodingPartDevPro\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\janse\Desktop\Bingha\CodingPartDevPro\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\janse\Desktop\Bingha\CodingPartDevPro\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\janse\Desktop\Bingha\CodingPartDevPro\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\janse\Desktop\Bingha\CodingPartDevPro\obj\Debug\net7.0\CodingPart Dev.Pro.csproj.AssemblyReference.cache
+C:\Users\janse\Desktop\Bingha\CodingPartDevPro\obj\Debug\net7.0\CodingPart Dev.Pro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janse\Desktop\Bingha\CodingPartDevPro\obj\Debug\net7.0\CodingPart Dev.Pro.AssemblyInfoInputs.cache
+C:\Users\janse\Desktop\Bingha\CodingPartDevPro\obj\Debug\net7.0\CodingPart Dev.Pro.AssemblyInfo.cs
+C:\Users\janse\Desktop\Bingha\CodingPartDevPro\obj\Debug\net7.0\CodingPart Dev.Pro.csproj.CoreCompileInputs.cache
+C:\Users\janse\Desktop\Bingha\CodingPartDevPro\obj\Debug\net7.0\CodingPart Dev.Pro.csproj.CopyComplete
+C:\Users\janse\Desktop\Bingha\CodingPartDevPro\obj\Debug\net7.0\CodingPart Dev.Pro.dll
+C:\Users\janse\Desktop\Bingha\CodingPartDevPro\obj\Debug\net7.0\refint\CodingPart Dev.Pro.dll
+C:\Users\janse\Desktop\Bingha\CodingPartDevPro\obj\Debug\net7.0\CodingPart Dev.Pro.pdb
+C:\Users\janse\Desktop\Bingha\CodingPartDevPro\obj\Debug\net7.0\CodingPart Dev.Pro.genruntimeconfig.cache
+C:\Users\janse\Desktop\Bingha\CodingPartDevPro\obj\Debug\net7.0\ref\CodingPart Dev.Pro.dll
